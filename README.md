@@ -1,6 +1,6 @@
 # SFML-Basic-Pong
 
-Basic Pong game created with SFML what it contains: 2 players and a ball in the shape of a circle.
+Basic Pong game created with SFML and C++ what it contains: 2 players and a ball in the shape of a circle.
 I made a ball that collides between the walls and the bats.
 Whoever reaches the score of 3 first wins.
 Sometimes there are still problems with the collision between the bat and the ball.
