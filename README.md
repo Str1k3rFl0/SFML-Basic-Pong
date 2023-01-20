@@ -4,6 +4,7 @@ Basic Pong game created with SFML and C++ what it contains: 2 players and a ball
 I made a ball that collides between the walls and the bats.
 Whoever reaches the score of 3 first wins.
 Sometimes there are still problems with the collision between the bat and the ball.
+Each time the ball hit the walls and bats, increase the speed by 100.0f
 
 Enter the names of the players at the beginning.
 
