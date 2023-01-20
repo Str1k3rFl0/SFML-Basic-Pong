@@ -9,7 +9,7 @@ Enter the names of the players at the beginning.
 
 If you want to play this game you need SFML library.
 
-![inputPlayers](https://user-images.githubusercontent.com/94991378/213696801-64024b0c-14e5-4b34-aee0-1157cd396146.PNG)
-![startGame](https://user-images.githubusercontent.com/94991378/213696821-e4b3f769-ad21-4f19-a256-ebcd8fd1a08a.png)
-![playingGame](https://user-images.githubusercontent.com/94991378/213696831-5568f629-6f2c-465a-8bee-2f6cf3cbc06c.png)
-![winPlayer](https://user-images.githubusercontent.com/94991378/213696841-58fc94b8-5ef9-43a8-9347-3e681cde86da.png)
+![inputPlayers](https://user-images.githubusercontent.com/94991378/213697121-0fdb1c73-2f06-494f-972d-11ae8ee52c8e.PNG)
+![startGame](https://user-images.githubusercontent.com/94991378/213697134-8cefbe2e-224e-41ff-83ba-f3bdb7705ad4.png)
+![playingGame](https://user-images.githubusercontent.com/94991378/213697138-c031abdd-b2d7-4e27-bab6-1915fb8e5928.png)
+![winPlayer](https://user-images.githubusercontent.com/94991378/213697144-0f545586-4e64-4823-ae0b-e061cf59ae6a.png)
